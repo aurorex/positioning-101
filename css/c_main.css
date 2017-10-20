@@ -1,0 +1,34 @@
+*{/*selector universal afecta a todos*/
+  font-size: 30px;
+  text-indent: 8px;/*sangria de el texto*/
+}
+
+
+.container_1 {/*selector clase*/
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #76D7C4;
+
+
+}
+
+.container_2 {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #45AC31;
+  left:200px;/*tendra un desplazamiento de 200px del lado izquierdo*/
+
+
+
+}
+
+.container_3{
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #F1C40F;
+
+
+}

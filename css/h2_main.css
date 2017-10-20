@@ -1,0 +1,14 @@
+#caja-1{
+
+	width: 200px;
+	height: 200px;
+	background:red;
+}
+
+#caja-dos {
+	position: absolute;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+	background: black;
+}

@@ -1,0 +1,19 @@
+/*teniendo dos elementos bloque de tipo id,para crear efecto de dos columnas*/
+
+#uno {
+	position: absolute;
+	top: 0;
+	right: 20%;/*su derecha produce un espacio del 20%*/
+	bottom: 0;
+	left: 0;
+	background: #ee3e64;
+}
+
+#dos{
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 80%;/*su izquierda produce un espacio del 80%*/
+	background:#A3E4D7;
+}

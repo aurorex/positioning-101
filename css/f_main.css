@@ -1,0 +1,45 @@
+.in{
+  position: relative;
+  width: 30px;
+  height:30px;
+  background: orange;
+  /*usamos las propiedades de position para mover nuestra caja*/
+  top: 80px;
+  bottom:80px ;
+  left: 80px;
+  right:80px ;
+
+}
+.uno {
+	position: absolute;/* se elimina del flujo normal. podemos colocarlo en cualquier lugar, y no afectará ni se verá afectado por ningún otro elemento en el flujo.*/
+	width: 200px;
+	height: 200px;
+  top: 0;
+  left: 0;
+	background: #D776D6;
+
+}
+.dos {
+	position: absolute;
+  width: 200px;
+	height: 200px;
+  top: 0;
+	right: 0;
+	background: #76D4D7;
+}
+.tres {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+  bottom: 0;
+	left: 0;
+	background: skyblue;
+}
+.cuatro{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+  bottom: 0;
+	right: 0;
+	background: pink;
+}

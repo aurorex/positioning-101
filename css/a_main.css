@@ -1,0 +1,20 @@
+.box_1 {
+	position:static;/*la propiedad estatic es por defecto,ya que todos los elementos bloque la poseen,las mantiene en su lugar*/
+	width: 200px;
+	height: 200px;
+	background:#BCB81A;
+}
+
+.box_2 {
+	position: static;
+	width: 200px;
+	height: 200px;
+	background: #1AACBC;
+}
+
+.box_3 {
+	position: static;
+	width: 200px;
+	height: 200px;
+	background:#6731AC;
+}

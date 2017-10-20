@@ -1,0 +1,48 @@
+body{
+  background: skyblue;
+}
+#buttons{
+  background: green;
+  position: fixed;
+  left: 0;
+	right: 0;
+  top:0;
+  height: 30px;
+
+}
+
+span:hover{/*efecto que hacen que los botones cambien de color al pasar el pulsor*/
+  background-color: purple;
+}
+
+#content-bonus{
+  float: right;/*el elemnto bloque flotara a la derecha*/
+  width:100px;
+  height: 1500px;
+  top:50px;
+  right: 0;
+  background:pink;
+  
+
+
+
+}
+#content-principal{
+
+  left:30px;
+  right: 30px;
+  background: white,
+
+
+}
+
+
+.pie_pagina {
+	position: fixed;/* fixed comparte todas las reglas de un elemento absolutamente posicionado, excepto que la ventana del navegador  posiciona el fixed elemento*/
+	bottom: 0;
+	left: 0;
+	right: 0;
+  height: 30px;
+  background:yellow;
+  text-align: center;/*centrar el texto*/
+}

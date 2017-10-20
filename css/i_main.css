@@ -1,0 +1,9 @@
+/*el elemento de posicion fixed no se desplaza con el documento,Se queda "arreglado" en el documento*/
+.pie_pagina {
+	position: fixed;/* fixed comparte todas las reglas de un elemento absolutamente posicionado, excepto que la ventana del navegador  posiciona el fixed elemento*/
+	bottom: 0;
+	left: 0;
+	right: 0;
+  background:yellow;
+  text-align: center;/*centrar el texto*/
+}

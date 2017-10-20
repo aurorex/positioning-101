@@ -1,0 +1,24 @@
+#uno {/*selector tipo id*/
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #76D7C4;
+
+}
+
+#dos {/*este selector tipo id "dos" esta dentro del selector tipo id "uno"*/
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #45AC31;
+  left: 200px;/*este repositorio corre 200px de izquierda a derecha*/
+
+}
+
+#tres{
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #F1C40F;
+
+}

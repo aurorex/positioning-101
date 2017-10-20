@@ -1,0 +1,16 @@
+/*el segundo elemento bloque(.box_2) estara superpuesto del primer elemento bloque(.box_1)*/
+
+.box_1 {
+	width: 200px;
+	height: 200px;
+	background: purple;
+}
+
+.box_2 {
+	position: absolute;
+	top: 0;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+	background:green;
+}

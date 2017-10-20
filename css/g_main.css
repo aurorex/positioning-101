@@ -1,0 +1,24 @@
+#caja_1 {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	left: 10px;
+	background: #1FF2C9  ;
+}
+#caja_2{
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	bottom: 20px;
+	left: 20px;
+	background: #FADBD8;
+}
+#caja_3{
+	position: absolute;
+	top: 30px;
+	right: 30px;
+	bottom: 30px;
+	left: 30px;
+	background: white;
+}
